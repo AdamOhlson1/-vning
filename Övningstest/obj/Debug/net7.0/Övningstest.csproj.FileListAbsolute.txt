@@ -1,0 +1,4 @@
+C:\Users\asus\Desktop\Övning githubactions\Övningstest\Övningstest\obj\Debug\net7.0\Övningstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Övning githubactions\Övningstest\Övningstest\obj\Debug\net7.0\Övningstest.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Övning githubactions\Övningstest\Övningstest\obj\Debug\net7.0\Övningstest.AssemblyInfo.cs
+C:\Users\asus\Desktop\Övning githubactions\Övningstest\Övningstest\obj\Debug\net7.0\Övningstest.csproj.CoreCompileInputs.cache
